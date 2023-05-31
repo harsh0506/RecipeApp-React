@@ -44,6 +44,6 @@ A recipe book app built with React and Firebase that allows users to search for 
 
 ## Usage
 
-1. Clone the repository: `git clone [repository-url]`
-2. Navigate to the project directory: `cd recipe-book-app`
+1. Clone the repository: `git clone https://github.com/harsh0506/RecipeApp-React`
+2. Navigate to the project directory: `cd RecipeApp-React`
 3. Download the required dependencies by running: `npm install`
