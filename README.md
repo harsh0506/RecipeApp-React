@@ -15,6 +15,12 @@ A recipe book app built with React and Firebase that allows users to search for 
 - React: A JavaScript library for building user interfaces.
 - Firebase: A platform that provides various backend services, including authentication and database storage.
 
+## SS
+<img src="https://firebasestorage.googleapis.com/v0/b/notes-5bb98.appspot.com/o/Screenshot%202023-05-31%20215919.png?alt=media&token=98cdae53-7ac7-4f1c-a852-1345506c4f1f&_gl=1*2zfopm*_ga*MTAxNTUzMTQ0LjE2NzEwNjkyOTU.*_ga_CW55HF8NVT*MTY4NTU0ODgzNy40Ni4xLjE2ODU1NTA3ODkuMC4wLjA." alt="ss2" />
+<img src="https://firebasestorage.googleapis.com/v0/b/notes-5bb98.appspot.com/o/Screenshot%202023-05-31%20220011.png?alt=media&token=7fbcc610-229f-4810-b2a3-e2735f03c248&_gl=1*1cu2zj8*_ga*MTAxNTUzMTQ0LjE2NzEwNjkyOTU.*_ga_CW55HF8NVT*MTY4NTU0ODgzNy40Ni4xLjE2ODU1NTA4MzEuMC4wLjA." alt="ss1" />
+<img src=https://firebasestorage.googleapis.com/v0/b/notes-5bb98.appspot.com/o/Screenshot%202023-05-31%20220030.png?alt=media&token=840c3899-7ef8-41f3-a30d-b436a666461f&_gl=1*1kvkg3z*_ga*MTAxNTUzMTQ0LjE2NzEwNjkyOTU.*_ga_CW55HF8NVT*MTY4NTU0ODgzNy40Ni4xLjE2ODU1NTA4NjcuMC4wLjA." alt="ss2" />
+<img src="https://firebasestorage.googleapis.com/v0/b/notes-5bb98.appspot.com/o/Screenshot%202023-05-31%20220049.png?alt=media&token=792c5ab2-31ef-495d-8f9d-59dda0343177&_gl=1*p5kpn8*_ga*MTAxNTUzMTQ0LjE2NzEwNjkyOTU.*_ga_CW55HF8NVT*MTY4NTU0ODgzNy40Ni4xLjE2ODU1NTA4OTkuMC4wLjA." alt="ss1" />
+
 ## Installation
 
 1. Clone the repository: `git clone [repository-url]`
