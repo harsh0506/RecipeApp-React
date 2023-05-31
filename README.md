@@ -21,6 +21,10 @@ A recipe book app built with React and Firebase that allows users to search for 
 2. Navigate to the project directory: `cd recipe-book-app`
 3. Install dependencies: `npm install`
 
+## Contact for email and password for testing
+@ joshiharsh0506@gmail.com
+
+
 ## Configuration
 
 1. Create a Firebase project at [https://console.firebase.google.com](https://console.firebase.google.com).
